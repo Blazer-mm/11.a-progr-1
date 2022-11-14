@@ -1,0 +1,6 @@
+pvn = 0.21
+sulascena = 1.50
+sulaspvn = sulascena * pvn
+sieracena = 3.00
+sierapvn = sieracena * pvn
+print(sulascena + sulaspvn + sieracena + sierapvn)
