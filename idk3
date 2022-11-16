@@ -6,3 +6,5 @@ while sk != 0:
     skaits += 1
     sk = int(input("Ievadi skaitli (0-beigt): "))
 print("Visu ievādito skaitlu aritmetiskais videjais ir ", summa / skaits)
+#tests: 4 ; 6 ; 8 ; 0
+#izvade: 6.0
